@@ -1,0 +1,25 @@
+{{!-- Custom Font.AG CSS Template --}}
+@font-face {
+  font-family: '{{fontName}}';
+  src: url('{{fontPath}}.woff2') format('woff2'),
+       url('{{fontPath}}.woff') format('woff'),
+       url('{{fontPath}}.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="{{classPrefix}}-"], [class*=" {{classPrefix}}-"] {
+  font-family: '{{fontName}}' !important;
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+}
+
+{{#each glyphs}}
+.{{../classPrefix}}-{{name}}:before {
+  content: "\{{codepointHex}}";
+}
+{{/each}}

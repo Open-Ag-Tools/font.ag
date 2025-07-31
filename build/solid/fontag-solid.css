@@ -1,0 +1,19 @@
+@font-face {
+  font-family: '';
+  src: url('.woff2') format('woff2'),
+       url('.woff') format('woff'),
+       url('.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="-"], [class*=" -"] {
+  font-family: '' !important;
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+}
+

@@ -1,0 +1,15 @@
+{
+  "name": "font.ag",
+  "version": "0.1.0",
+  "description": "Open-source agricultural icon font",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate-font.js"
+  },
+  "devDependencies": {
+    "fantasticon": "^3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

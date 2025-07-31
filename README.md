@@ -1,2 +1,1 @@
-# font.ag
-On open source font set for ag software.
+# Font.AG\n\nOpen-source agricultural icon font.\n

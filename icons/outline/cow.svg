@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Icons" viewBox="0 0 32 32" xml:space="preserve" height="128" width="128">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M29,18.3c0-2.6-1.4-4.9-3.6-6.1C26.9,10.2,28,7.8,28,5c0-1,0-2-0.5-3c0,0,0,0.1,0,0.1C26.3,6.9,21.9,10,16.9,10  h-1.8c-5,0-9.5-3.1-10.6-7.9c0,0,0-0.1,0-0.1C4,3,4,4,4,5c0,2.8,1.1,5.2,2.6,7.3C4.4,13.5,3,15.7,3,18.3c1.6,0,3.1-0.6,4.3-1.5  l1.1,9c0.3,2.4,2.3,4.1,4.7,4.1h5.8c2.4,0,4.4-1.8,4.7-4.1l1.1-9C25.9,17.8,27.4,18.3,29,18.3z"/>
+<line class="st0" x1="9" y1="24" x2="23" y2="24"/>
+</svg>
